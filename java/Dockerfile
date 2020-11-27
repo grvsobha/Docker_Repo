@@ -4,4 +4,4 @@ COPY HelloWorld.java /
 
 RUN javac HelloWorld.java
 
-ENTRYPOINT [“java”, “HelloWorld”]
+ENTRYPOINT ["java", "HelloWorld"]
